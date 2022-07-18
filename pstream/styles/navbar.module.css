@@ -1,0 +1,12 @@
+.background{
+    position:relative;
+    background:#333333;
+}
+
+.logo{
+    position:relative;
+    margin: 0 auto 0 auto;
+    left:5px;
+}
+
+
